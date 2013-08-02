@@ -69,3 +69,4 @@ set pastetoggle=<F2>
 
 " more efficient command mode
 nnoremap ; :
+set winminwidth=0
