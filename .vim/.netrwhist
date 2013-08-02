@@ -1,5 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_cnt =4
 let g:netrw_dirhist_1='/media/DEF8DBF5F8DBC9C3/Users/Erik/Music/DJ Shadow/The Outsider'
 let g:netrw_dirhist_2='/home/ebonadonna/Code/replay/templates'
 let g:netrw_dirhist_3='/home/ebonadonna/.vim'
+let g:netrw_dirhist_4='/home/ebonadonna/.onboard/layouts'
